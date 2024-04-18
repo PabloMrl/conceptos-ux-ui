@@ -15,7 +15,7 @@
 - rol de trabajo
 - Experiencias diseñadas y accidentales.
 
-3.Metodologías de diseño y UXResearch
+3.[Metodologías de diseño y UXResearch](#ux-research)
 
 - Metodologías de trabajo
 - Metodologías de diseño (Design Thinking - Design Sprint)
@@ -150,7 +150,7 @@ El modelo del "Doble diamante" es una variante específica del enfoque design th
 
 Conceptos relacionados:
 
-1. **Investigación de Usuarios**: Este proceso implica estudiar el comportamiento, necesidades y preferencias de los usuarios para informar el diseño de productos o servicios. Incluye métodos  cualitativos y cuantitativos para recopilar datos sobre  los  usuarios.
+1.**Investigación de Usuarios**: Este proceso implica estudiar el comportamiento, necesidades y preferencias de los usuarios para informar el diseño de productos o servicios. Incluye métodos  cualitativos y cuantitativos para recopilar datos sobre  los  usuarios.
 
 2.**Entrevistas De Usuarios**: Conversaciones uno a uno con usuarios para comprender sus objetivos, comportamientos y puntos de dolor.
 

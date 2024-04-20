@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(241, 239, 236);
+}
+img {
+    aspect-ratio: 3/4;
+    max-width: 100%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+header,
+main{
+    margin: 0 auto;
+    width: 1200px;
+    display: block;
+    padding: 5px;
+   
+}
+header {
+    background-color: antiquewhite;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.buy-item {
+    display: flex;
+    background-color: aquamarine;
+}
+
+.buy__item-card{
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 600px;
+}
+.buy__item_info{
+    height: 100%;
+    background-color: yellow;
+    flex:1;
+}
+.info{
+    padding: 10px;
+}
+.productos_seleccionados{
+    background-color: yellow;
+    height: 100%;
+    flex:1;
+}

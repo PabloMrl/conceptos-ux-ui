@@ -2,66 +2,66 @@
 
 ## Temas
 
-:scream_cat: :scream_cat:
+🙀 🙀
 
 1.[Introducción a UX/UI](#introducción-a-experiencia-de-usuarios-ux)
 
-- ¿Qué es la experiencia de usuario? UX
-- ¿Qué es la interfaz de usuario? UI
+- [X] ¿Qué es la experiencia de usuario? UX
+- [ ] ¿Qué es la interfaz de usuario? UI
 
 2.[Diseño centrado en el usuario](#design-thinking)
 
-- Relación entre UX/UI
-- rol de trabajo
-- Experiencias diseñadas y accidentales.
+- [ ] Relación entre UX/UI
+- [ ] rol de trabajo
+- [ ] Experiencias diseñadas y accidentales.
 
 3.[Metodologías de diseño y UXResearch](#ux-research)
 
-- Metodologías de trabajo
-- Metodologías de diseño (Design Thinking - Design Sprint)
-- Investigación de experiencia de usuario
+- [ ] Metodologías de trabajo
+- [ ] Metodologías de diseño (Design Thinking - Design Sprint)
+- [ ] Investigación de experiencia de usuario
 
 4.Userpersona y benchmarking
 
-- Usuário/Persona
-- Ficha de persona
-- Motivaciones y frustraciones
-- Mapa de empatía
-- benchmarking de productos
+- [ ] Usuário/Persona
+- [ ] Ficha de persona
+- [ ] Motivaciones y frustraciones
+- [ ] Mapa de empatía
+- [ ] benchmarking de productos
 
 5.Entrevistas cualitativas
 
-- Entrevistas cualitativas a los usuarios.
-- Preguntas abiertas y cerradas
-- Cualitativo vs. cuantitativo
+- [ ] Entrevistas cualitativas a los usuarios.
+- [ ] Preguntas abiertas y cerradas
+- [ ] Cualitativo vs. cuantitativo
 
 6.POV & MVP
 
-- Producto mínimo viable
-- Storyboarding y Storytelling
-- Punto de vista
+- [ ] Producto mínimo viable
+- [ ] Storyboarding y Storytelling
+- [ ] Punto de vista
 
 7.Arquitectura informacional
 
-- Cardsorting
-- Arquitectura de la información: agrupar, jerarquizar y etiquetar.
+- [ ] Cardsorting
+- [ ] Arquitectura de la información: agrupar, jerarquizar y etiquetar.
 
 8.Userflows
 
-- Diagrama de flujo: pantalla, decisión, interacción, inicio/fin y error
-- Diagrama de tareas: entrada, acción y fin.
+- [ ] Diagrama de flujo: pantalla, decisión, interacción, inicio/fin y error
+- [ ] Diagrama de tareas: entrada, acción y fin.
 
 9.Protótipo (wireframe a mano)
 
-- Instancias prototipo
-- Calidad del prototipo
-- Wireframes
+- [ ] Instancias prototipo
+- [ ] Calidad del prototipo
+- [ ] Wireframes
 
 10.Protótipo (wireframe digital) & Interface
 
-- Tipos de aplicaciones (apps)
-- Interfaces
-- Wireframes digitais: Figma eAdobe XD básico
+- [ ] Tipos de aplicaciones (apps)
+- [ ] Interfaces
+- [ ] Wireframes digitais: Figma eAdobe XD básico
 
 ## Introducción a Experiencia de usuarios UX
 
@@ -202,6 +202,6 @@ Otros conceptos importantes de ux research
 
 8.**Diagrama de Afinidad**:Es una técnica de lluvia de ideas que implica organizar ideas, observaciones o hallazgos de investigación en grupos temáticos para identificar patrones tendencias emergentes. Los investigadores recopilan datos cualitativos durante el proceso de investigación, como notas de campo[^1], entrevistas o comentarios de los usuarios, y luego los agrupa en categorías similares. Este proceso ayuda a sintetizar grandes volúmenes de información y a identificar insighst clave que pueden informar el diseño y desarrollo del producto.
 
-[^1]:Notas de campo son registros escritos que los investigadores toman durante el proceso de investigación mientras están el campo, es decir, en el entorno donde ocurre el fenómeno que están estudiando.
+para Gene 😍
 
-para Gene :heart_eyes:
+[^1]: Notas de campo son registros escritos que los investigadores toman durante el proceso de investigación mientras están el campo, es decir, en el entorno donde ocurre el fenómeno que están estudiando.

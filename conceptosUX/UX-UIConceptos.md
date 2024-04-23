@@ -102,6 +102,8 @@ Design Thinking:
 
 4-**Reducción de riesgos**: AL realizar múltiples iteraciones, se reducen los riesgos asociados con el desarrollo de un producto o servicio, ya que se abordan y resuelven problemas de manera incremental en lugar de esperar hasta el final del proceso.
 
+![DCU](../conceptosUX/mapas/iterar.png)
+
 ## EL Doble Diamante
 
 Es un modelo de proceso de diseño e innovación, que pueden seguir tanto diseñadores como no diseñadores para encontrar soluciones a problemas complejos que respondan a las necesidades de las personas. Se llama "doble diamante" porque consta de dos fases principales, cada una representada por un diamante, que a su vez se subdividen en cuatro etapas. Este modelo es utilizado en el **diseño Thinking y el desarrollo de productos y servicios**.

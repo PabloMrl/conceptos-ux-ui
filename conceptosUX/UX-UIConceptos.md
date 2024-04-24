@@ -267,6 +267,7 @@ Sirver **para entender mejor a este tipo de prototipo de persona** y por lo tant
 Ayuda a reflexionar sobre como afectan el **entorno** y las **emociones** internas que vive.
 Es importante tomarla como uno de los **puntos de partida para identificar como es este user persona**.
 
+![Mapa de Empatía](../conceptosUX/imagenesDeEjemplos/mapaDeEmpatia.png)
 ### ¿Qué piensa y siente?
 
 - ¿Qué le da sentido a su vida?
@@ -316,7 +317,7 @@ Es importante tomarla como uno de los **puntos de partida para identificar como 
 - ¿Qué le causa ansiedad?
 - ¿Qué le enoja?
 
-![Mapa de Empatía](../conceptosUX/imagenesDeEjemplos/mapaDeEmpatia.png)
+
 para Gene 😍
 
 [^1]: Notas de campo son registros escritos que los investigadores toman durante el proceso de investigación mientras están el campo, es decir, en el entorno donde ocurre el fenómeno que están estudiando.

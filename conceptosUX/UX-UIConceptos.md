@@ -21,12 +21,12 @@
 - [ ] Metodologías de diseño (Design Thinking - Design Sprint)
 - [ ] Investigación de experiencia de usuario
 
-4.Userpersona y benchmarking
+4.[Userpersona y benchmarking](#userpersona-y-benchmarking)
 
-- [ ] Usuário/Persona
-- [ ] Ficha de persona
-- [ ] Motivaciones y frustraciones
-- [ ] Mapa de empatía
+- [X] Usuário/Persona
+- [X] Ficha de persona
+- [X] Motivaciones y frustraciones
+- [X] Mapa de empatía
 - [ ] benchmarking de productos
 
 5.Entrevistas cualitativas
@@ -63,6 +63,8 @@
 - [ ] Interfaces
 - [ ] Wireframes digitais: Figma eAdobe XD básico
 
+---
+
 ## Introducción a Experiencia de usuarios UX
 
 Le experiencia de usuarios se refiera a la percepción general que tiene una persona al interactuar con un producto, servicio o sistema, en particular en el contexto del diseño y la usabilidad. La UX se centra en como se siente una persona al usar un producto, que tan fácil o difícil es para ellos realizar sus tareas, y como percibem el valor de producto en relación con sus necesidaes y expectativas.
@@ -70,6 +72,8 @@ Le experiencia de usuarios se refiera a la percepción general que tiene una per
 Una buena experiencia de usuario implica que el producto o servicio es fácil de usar, eficiente, efectivo y, lo más importante, satisfactorio para el usuario. Esto incluye aspectos como la navegación intuititica, el diseño atractivi, la claridad en la presentación de la información, la respuesta rápida a las acciones del usuario y la ausencia de frustraciones y errores.
 
 La experiencia de usuario se ve inlfuenciada por diversos factores, que van desde lo visual y la arquitectura de la información hasta el rendimiento del producto y la calidad del servicio al cliente. Es importante destacar que la experiencia de usuario no se limita únicamente a la interfaz de usuario, sino que abarca todos los aspectod de la interacción entre el usuario y el producto o servicio, incluidos los aspectos emocionales y psicológicos.
+
+---
 
 ## Design Thinking
 
@@ -103,6 +107,8 @@ Design Thinking:
 4-**Reducción de riesgos**: AL realizar múltiples iteraciones, se reducen los riesgos asociados con el desarrollo de un producto o servicio, ya que se abordan y resuelven problemas de manera incremental en lugar de esperar hasta el final del proceso.
 
 ![DCU](../conceptosUX/mapas/iterar.png)
+
+---
 
 ## EL Doble Diamante
 
@@ -147,6 +153,8 @@ Finalmente, las soluciones refinadas se implementan y se llevan a la práctica e
 El modelo del "Doble diamante" es una variante específica del enfoque design thinking. Aunque comparten similitudes y comparten el mismo principio de abordar problemas de manera estructurada y creativa, el "doble diamante" ofrece una descripción más detallada de las fases y etapas específicas del proceso.
 
 [Temas](#temas)
+
+---
 
 ### UX Research
 
@@ -204,6 +212,111 @@ Otros conceptos importantes de ux research
 
 8.**Diagrama de Afinidad**:Es una técnica de lluvia de ideas que implica organizar ideas, observaciones o hallazgos de investigación en grupos temáticos para identificar patrones tendencias emergentes. Los investigadores recopilan datos cualitativos durante el proceso de investigación, como notas de campo[^1], entrevistas o comentarios de los usuarios, y luego los agrupa en categorías similares. Este proceso ayuda a sintetizar grandes volúmenes de información y a identificar insighst clave que pueden informar el diseño y desarrollo del producto.
 
+---
+
+### UserPersona y Benchmarking
+
+En el diseño UX/UI
+
+- Es un **individuo ficitio** que se crea para **identificar un público específico**.
+- Son **modelos** de personas que **representan a los usuarios** durante el proceso de diseño.
+- Son **imaginarios** pero están creardos con mucho **detallismo y precisión**.
+- **No están diseñadas únicamente según su información demográfica**.
+
+Las personas son **arquetipos** basados en patrones de comportamientos revelados durante el proceso de investigación de usuarios.
+
+¿Por qué necesitamos crear personas?
+
+- Comprender lo que quieren los usuarios no es suficiente. Tienes que entender el contexto.
+- Para diseñar una experiencia que deleite a los usuarios, debemos documentar sus pensamientos, sentimientos, expectativas y motivaciones.
+- Las personas combinan estos conocimientos en **una narrativa que ayuda a tomar mejores decisiones y diseñar mejores productos**.
+
+Proto persona
+
+- Utilizaremos los datos recolectados de la investigación de usuarios, nuestras observaciones y suposiciones para crear una **Hipótesis**
+- **La proto persona es una primera versión (sin validar)** de lo que luego va a ser la *User persona(validada)*
+  Características
+- Las proto personas son una **parte clave del diseño UX**. Nos aseguramos de hablar al público objetivo, construimos personas detalladas que reflejan los deseos, necesidades, expectativas y frustraciones de los usuarios.
+- Cuando se habla de grupos de usuarios, segmentos de mercado y otros datos, puede ser fácil olvidar que **al final hay un ser humano**. Las personas son más que estadísticas. Son **narrativas** que van a inspirar y respaldar las decisiones que tomemos.
+- Siempre que la compresión de todos los que formen parte del proceso de diseño sea clara, algo tan simple como el **nombre** de la persona disparará una amplia gama de datos: Datos demográficos, atributos, deseos, comportamientos, preocupaciones, miedos y citas:
+
+**La proto persona debe tener:**
+
+1-**Datos**: Nombre y apellido, profesión.
+
+2-**Datos demográficos**: Lugar de residencia, edad, sexo, nivel de educación, estado civil, ingresos.
+
+3-**Biografía**: Breve reseña de como es, como vive, que la define.
+
+4-**Intereses**: Hobbies, modo de vida.
+
+5-**Hábitos de consumo**: ¿Qué consume?, ¿Cómo lo hace y por qué?
+
+6-**Objetivos, sueños, metas**: ¿Qué quieren hacer y por qué?
+
+7-**Su relación con la tecnología**: ¿Qué usar?, ¿Con qué frecuencia?, ¿Para qué?
+
+8- **frustraciones y motivaciones**: Qué se interpone en su camino?¿Qué los hace avanzar?
+
+9- **Una frase que identifique lo mejor posible como piensa**: Se expresa entre comillas "quote"
+
+### ¿Qué es un mapa de empatía?
+
+Es un **esquema visual** con preguntas sobre el cliente objetivos ideal de un **producto o servicio determinado**.
+Sirver **para entender mejor a este tipo de prototipo de persona** y por lo tanto poder satisfacer mejor sus necesidades y comunicarnos **empatizando** al máximo con ella.
+Ayuda a reflexionar sobre como afectan el **entorno** y las **emociones** internas que vive.
+Es importante tomarla como uno de los **puntos de partida para identificar como es este user persona**.
+
+### ¿Qué piensa y siente?
+
+- ¿Qué le da sentido a su vida?
+- ¿Qué le preocupa?
+- ¿Qué le hace feliz?
+- ¿Qué otros pensamientos y sentimientos podrían motivar su comportamiento?
+
+### ¿Qué ve?
+
+- ¿Qué ve en el mercado?
+- ¿Qué ve en su entorno inmediato?
+- ¿Qué ve a otros diciendo y haciendo?
+- ¿Qué está viendo y leyendo?
+
+### ¿Qué escucha?
+
+- ¿Qués está oyendo decir de los demás?
+- ¿Qué está escuchando de sus amigos?
+- ¿Qué está escuchando de su colegas?
+- ¿Qué está escuchando de otros?
+
+### ¿Qué dice y qué hace?
+
+- ¿Qué le hemos oído decir?
+- ¿Qué podemos imaginarle diciendo?
+- ¿Cómo es su rutina?
+- ¿Qué comportamiento hemos observado?
+- ¿Qué podemos imaginarle haciendo?
+- ¿Qué necesita hacer de manera diferente?
+- ¿Qué trabajo(s)quiere o necesita conseguir?
+- ¿Qué decisiones debe tomar?
+- ¿Cómo sabemos qué tuvo éxito?
+
+### ¿Qué lo motiva?
+
+- ¿Cuales son sus deseos?
+- ¿Cuáles son sus necesidades?
+- ¿Qué espera qué suceda?
+- ¿Cuáles son sus sueños?
+
+### ¿Qué lo frustra?
+
+- ¿Cuáles son sus miedos'
+- ¿Cuáles son sus obstáculos?
+- ¿Qué teme que suceda?
+- ¿Cuáles son sus frustraciones?
+- ¿Qué le causa ansiedad?
+- ¿Qué le enoja?
+
+![Mapa de Empatía](../conceptosUX/imagenesDeEjemplos/mapaDeEmpatia.png)
 para Gene 😍
 
 [^1]: Notas de campo son registros escritos que los investigadores toman durante el proceso de investigación mientras están el campo, es decir, en el entorno donde ocurre el fenómeno que están estudiando.

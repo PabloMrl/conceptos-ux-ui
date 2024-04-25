@@ -158,9 +158,28 @@ El modelo del "Doble diamante" es una variante específica del enfoque design th
 
 ### UX Research
 
+- **Observar**
+
+> - Captar las necesidades de los usuarios, hablar con ellos, saber escuchar.
+> - Identificar el público objetivo.
+
+- Definir el **problema**, antes de ofrecer una solución debemos comprender el  problema.
+- Respetar el **objetivo** del negocio, es tan importante como el diseño de la interfaz.
+- **Diseñamos para el usuario**, basados en su experiencia, no en la nuestra, debemos ser empáticos, es decir, poder ver desde su perspetiva,(no alncanza ponerse en el lugar de la otra persona, necesitamos saber que vive en persona en esa situación en particular)
+
 Conceptos relacionados:
 
 1.**Investigación de Usuarios**: Este proceso implica estudiar el comportamiento, necesidades y preferencias de los usuarios para informar el diseño de productos o servicios. Incluye métodos  cualitativos y cuantitativos para recopilar datos sobre  los  usuarios.
+Se trata de **responder una pregunta o hipótesis** que usted o su equipo de diseño tengan.
+No existe un enfoque único para construir una práctica de investigación porque cada organización tiene sus propios objetivos. Aprender **que tipo de investigación hacer, por qué y como** debe hacerlo son pasos importantes para establecer una práctica de investigación.
+
+**Algunos datos siempre son mejores que ninguno**, pero saber cuando recopilarlos y que tipo de datos necesita comienza por **comprender el objetivo**.
+
+> Behzod Sirjani, fundador de Yet another Studio, dice que "***debe intentar investigar cada vez que se desee aumentar su confianza en una decisión***".
+
+ La investigacion siempre debe orientarse en torno a una **decisión** porque saber lo que está tratando de decidir lo ayudará a comprender lo que está tratando de ver y como realmente va a hacer esa investigación.
+
+ > Con las grandes decisiones, **querés tener más confianza en que estás haciendo lo correcto**. Ahí es cuando deberías usar la investigación como herramienta. **Author**: Behzod Sirjani.
 
 2.**Entrevistas De Usuarios**: Conversaciones uno a uno con usuarios para comprender sus objetivos, comportamientos y puntos de dolor.
 
@@ -268,6 +287,7 @@ Ayuda a reflexionar sobre como afectan el **entorno** y las **emociones** intern
 Es importante tomarla como uno de los **puntos de partida para identificar como es este user persona**.
 
 ![Mapa de Empatía](../conceptosUX/imagenesDeEjemplos/mapaDeEmpatia.png)
+
 ### ¿Qué piensa y siente?
 
 - ¿Qué le da sentido a su vida?
@@ -316,7 +336,6 @@ Es importante tomarla como uno de los **puntos de partida para identificar como 
 - ¿Cuáles son sus frustraciones?
 - ¿Qué le causa ansiedad?
 - ¿Qué le enoja?
-
 
 para Gene 😍
 

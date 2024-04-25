@@ -282,7 +282,7 @@ Proto persona
 ### ¿Qué es un mapa de empatía?
 
 Es un **esquema visual** con preguntas sobre el cliente objetivos ideal de un **producto o servicio determinado**.
-Sirver **para entender mejor a este tipo de prototipo de persona** y por lo tanto poder satisfacer mejor sus necesidades y comunicarnos **empatizando** al máximo con ella.
+Sirve **para entender mejor a este tipo de prototipo de persona** y por lo tanto poder satisfacer mejor sus necesidades y comunicarnos **empatizando** al máximo con ella.
 Ayuda a reflexionar sobre como afectan el **entorno** y las **emociones** internas que vive.
 Es importante tomarla como uno de los **puntos de partida para identificar como es este user persona**.
 

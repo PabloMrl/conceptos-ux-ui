@@ -337,6 +337,31 @@ Es importante tomarla como uno de los **puntos de partida para identificar como 
 - ¿Qué le causa ansiedad?
 - ¿Qué le enoja?
 
+### ¿Qués es Benchmarking?
+
+El **benchmarking competitivo** consiste información específica acerca de sus **competidores directos, y compararlos**.
+
+Consiste en tomar "comparadores" o benchamarks, que podría traducirse como **medida de calidad**.
+
+Es un **proceso de investigación** que proporciona información valiosa para la toma de decisiones.
+
+Es una ***actividad continua** porque el mercado está constantemente cambiando. Al realizarlo nos da una "**foto**" **del momento** que estamos analizando.
+
+**No es un proceso para copiar o imitar la competencia**.
+
+### Benchamarking competitivo
+
+> "La **toma de referencia de los mejores** y lograr adoptar sus métodos y estrategias, dentro de la legalidad establecida". David Kearns
+
+Hay tres tipos de Benchmarking:
+
+- Funcional: Ayuda a identificar las mejores prácticas en procesos, funciones operaciones o servicios de una empresa excelente en el área que se pretende mejorar.
+
+- Interno: Realizando en las empresas grandes con el fin de identificar buenas prácticas relevantes en una área para replicarlas en diferentes países o unidades de negocio.
+
+- **competitivo: pretende identificar las mejores prácticas con respecto a los líders del sector**
+
+ > - 
 para Gene 😍
 
 [^1]: Notas de campo son registros escritos que los investigadores toman durante el proceso de investigación mientras están el campo, es decir, en el entorno donde ocurre el fenómeno que están estudiando.
